@@ -1,5 +1,5 @@
 function calcularMedia (nota1, nota2) {
- retun nota1 + nota / 2;
+ return nota1 + nota / 2;
 }
 
 function verificarSituacao(media) {
