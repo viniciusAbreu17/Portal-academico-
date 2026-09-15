@@ -1,4 +1,4 @@
-unction calcularMedia(nota1, nota2) {
+function calcularMedia(nota1, nota2) {
  return nota1 + nota2 / 2;
 }
 
